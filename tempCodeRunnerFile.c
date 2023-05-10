@@ -1,1 +1,0 @@
-while (j <= fin && matriz[j/m][j%m] == valorBuscado) 
